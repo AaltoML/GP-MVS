@@ -3,3 +3,7 @@ We propose a novel idea for depth estimation from unstructured multi-view image-
 
 ![](assets/fig/arch.png)
 
+### Example video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iellGrlNW7k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
