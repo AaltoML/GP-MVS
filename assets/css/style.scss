@@ -7,6 +7,10 @@
 	color: #fff;
 }
 
+.page-header h2::after {
+	content: "<a href="https://arxiv.org/abs/1904.06397" class="btn">arXiv</a>";	
+}
+
 #main_content_wrap {
 	background: #fff;
 }
