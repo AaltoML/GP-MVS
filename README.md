@@ -4,6 +4,10 @@ We propose a novel idea for depth estimation from unstructured multi-view image-
 
 ![](assets/fig/arch.png)
 
+*Illustrative sketch of our MVS approach.  The camera poses and input frames are illustrated in the top rows.  The current and previous (or a sequence of previous) frames are used for composing a cost volume, which is then passed through and en-
+coder network.  The novelty in our method is in doing Gaussian process inference on the latent-space encodings such that the GP
+prior is defined to be smooth in pose-difference.  The GP prediction  is  finally  passed  through  a  decoder  network  which  outputs disparity maps (bottom).  This is the logic of the online variant of our method (the latent space graph is a directed graph / Markov chain).  The batch variant could be illustrated in similar fashion, but with links between all latent nodes.*
+
 ### Example video
 
 This method is capable of running in real-time on a tablet/phone (the video shows how it works on an iPad). The training data was not captured on a similar device, nor environment.
