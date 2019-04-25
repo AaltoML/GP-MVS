@@ -10,7 +10,8 @@ prior is defined to be smooth in pose-difference.  The GP prediction  is  finall
 
 ### Example video
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iellGrlNW7k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 This method is capable of running in real-time on a tablet/phone (the video shows how it works on an iPad). The training data was not captured on a similar device, nor environment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iellGrlNW7k" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
