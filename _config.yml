@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: "Multi-View Stereo by Temporal Nonparametric Fusion"
-description: "<a href='#'>Yuxin Hou</a>, <a href='https://users.aalto.fi/~kannalj1/'>Juho Kannala</a>, and <a href='http://arno.solin.fi'>Arno Solin</a>"
+description: "ICCV 2019<br /><a href='#'>Yuxin Hou</a>, <a href='https://users.aalto.fi/~kannalj1/'>Juho Kannala</a>, and <a href='http://arno.solin.fi'>Arno Solin</a>"
 markdown: kramdown
