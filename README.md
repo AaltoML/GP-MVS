@@ -10,6 +10,7 @@ Codes for the paper:
 We propose a novel idea for depth estimation from unstructured multi-view image-pose pairs, where the model has capability to leverage information from previous latent-space encodings of the scene. This model uses pairs of images and poses, which are passed through an encoder-decoder model for disparity estimation. The novelty lies in soft-constraining the bottleneck layer by a nonparametric Gaussian process prior.
 
 ![](assets/ipad-chairs.gif)
+
 *Example depth estimation result running in real-time on an iPad.*
 
 ## Prerequisites
