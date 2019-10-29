@@ -16,6 +16,6 @@ This method is capable of running in real-time on a tablet/phone (the video show
 
 ### Poster
 
-![ICCV poster]({{ site.baseurl }}/assets/ICCV-poster.jpg)
+![ICCV poster]({{ site.baseurl }}/assets/iccv-poster.jpg)
 
-[ICCV poster]({{ site.baseurl }}/assets/ICCV-poster.pdf)
+[ICCV poster]({{ site.baseurl }}/assets/iccv-poster.pdf)
