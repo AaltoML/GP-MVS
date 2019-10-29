@@ -14,4 +14,8 @@ prior is defined to be smooth in pose-difference.  The GP prediction  is  finall
 
 This method is capable of running in real-time on a tablet/phone (the video shows how it works on an iPad). The training data was not captured on a similar device, nor environment.
 
+### Poster
 
+![ICCV poster]({{ site.baseurl }}/assets/ICCV-poster.jpg)
+
+[ICCV poster]({{ site.baseurl }}/assets/ICCV-poster.pdf)
